@@ -1,8 +1,0 @@
- Feature: Adding
- Scenario: Add number
- Given one <one> 
- When add <plus> 
- Then total <total>
- Examples:
- | one | plus | total |
- | 1 | 2 | 3 |
